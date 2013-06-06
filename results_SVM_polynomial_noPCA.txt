@@ -1,0 +1,27 @@
+Confusion Matrix for SVM 
+ 43 2 
+ 3 52 
+  
+Confusion Matrix for K-means - all dataset 
+ 9 99 
+ 91 1 
+  
+--------------  
+Confusion Matrix for SVM 
+ 39 0 
+ 4 57 
+  
+Confusion Matrix for K-means - all dataset 
+ 91 1 
+ 9 99 
+  
+--------------  
+Confusion Matrix for SVM 
+ 48 1 
+ 6 45 
+  
+Confusion Matrix for K-means - all dataset 
+ 9 99 
+ 91 1 
+  
+--------------  
