@@ -9,6 +9,6 @@ The project also includes a project report in Turkish for convenience.
 
 Turkish
 --------------
-Bu proje USPS datası üzerinde MatLab kullanılarak SVM ve K-Ortalama yöntemlerinin uygulamasını içerir. Proje.pdf dosyasında Türkçe detaylı açıklamayı bulabilirsiniz.
+Bu proje USPS datası üzerinde MatLab kullanılarak SVM ve K-Ortalama yöntemlerinin uygulamasını içerir. rapor.pdf dosyasında Türkçe detaylı açıklamayı bulabilirsiniz.
 
 
